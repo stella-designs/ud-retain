@@ -4,4 +4,4 @@ This is an example from Udacity's [Javascript Design Patterns course](https://ww
 
 Clone the repo and open up `index.html` in your browser of choice.
 
-Github pages link for [Udacity Retain] (https://websiteartist.github.io/ud-retain/) project. 
+Github pages link for [Udacity Retain](https://websiteartist.github.io/ud-retain/) project.
